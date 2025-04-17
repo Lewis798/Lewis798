@@ -7,7 +7,6 @@
 **About Me:** 
 |   主&emsp;&emsp;页   | <https://plume.pookie.top>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;&emsp;客** | **<https://pookie.top>**                            |
 
 
 **Languages:**
