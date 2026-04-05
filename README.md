@@ -2,11 +2,7 @@
 ```
 吾志所向，一往无前。
 ```
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
-
-
 **GitHub Stats:**
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=lewis798&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewis798&layout=compact)
 
