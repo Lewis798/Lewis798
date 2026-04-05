@@ -4,9 +4,6 @@
 ```
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-**About Me:** 
-|   主&emsp;&emsp;页   | <https://plume.pookie.top>                                      |
-| :------------: | :------------------------------------------------------- |
 
 **GitHub Stats:**
 
